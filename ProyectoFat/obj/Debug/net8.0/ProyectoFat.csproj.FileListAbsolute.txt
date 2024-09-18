@@ -1,0 +1,14 @@
+C:\Users\USUARIO\Desktop\ProyectoFat\bin\Debug\net8.0\ProyectoFat.exe
+C:\Users\USUARIO\Desktop\ProyectoFat\bin\Debug\net8.0\ProyectoFat.deps.json
+C:\Users\USUARIO\Desktop\ProyectoFat\bin\Debug\net8.0\ProyectoFat.runtimeconfig.json
+C:\Users\USUARIO\Desktop\ProyectoFat\bin\Debug\net8.0\ProyectoFat.dll
+C:\Users\USUARIO\Desktop\ProyectoFat\bin\Debug\net8.0\ProyectoFat.pdb
+C:\Users\USUARIO\Desktop\ProyectoFat\obj\Debug\net8.0\ProyectoFat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\ProyectoFat\obj\Debug\net8.0\ProyectoFat.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\ProyectoFat\obj\Debug\net8.0\ProyectoFat.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\ProyectoFat\obj\Debug\net8.0\ProyectoFat.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\ProyectoFat\obj\Debug\net8.0\ProyectoFat.dll
+C:\Users\USUARIO\Desktop\ProyectoFat\obj\Debug\net8.0\refint\ProyectoFat.dll
+C:\Users\USUARIO\Desktop\ProyectoFat\obj\Debug\net8.0\ProyectoFat.pdb
+C:\Users\USUARIO\Desktop\ProyectoFat\obj\Debug\net8.0\ProyectoFat.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\ProyectoFat\obj\Debug\net8.0\ref\ProyectoFat.dll
